@@ -17,5 +17,5 @@ OWNER_ID = int(os.environ.get("5151455635"))
 # ------------------------------------------------
 LOGGER_ID = int(os.environ.get("-1001714843083"))
 # ------------------------------------------------
-MONGO_URL = os.environ.get("MONGO_URL")
+MONGO_URL = os.environ.get("mongodb+srv://yashu:yashu@cluster0.he971qc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # ------------------------------------------------
