@@ -111,7 +111,7 @@ async def activevc(_, message: Message):
 
 
 
-FORBIDDEN_KEYWORDS = ["porn", "xxx", "sex", "NCERT", "XII", "page", "Ans", "meiotic", "divisions", "System.in", "Scanner", "void", "nextInt"]
+FORBIDDEN_KEYWORDS = ["porn", "xxx", "sex", "NCERT", "XII", "page", "Ans", "meiotic", "divisions", "System.in", "Scanner", "void", "Porn" , "Sex" , "Xxx" , "Chut" , "chut" , "CHUT" , "SEX" , "PORN" , "XXX" , "MOTHERCHOD" , " Motherchod" , " motherchod" , "RANDIYON" , "randiyon" , "Randiyon" , "randi" , "Randi" , "RANDI" , "FUCK" , "Fuck" , "fuck"  , "bsdk" , "BSDK" , "Bsdk" , "LAND" , "land" , "Land" , "Chutiya" , "chutiya" , "gandmarao", "Gandmarao" , "Gandu" , "gandu" , "chodu" , "Chodu" , "gand" , "Gand" , "Gaand" , "gaand" , "nextInt"]
 
 @app.on_message()
 async def handle_message(client, message):
